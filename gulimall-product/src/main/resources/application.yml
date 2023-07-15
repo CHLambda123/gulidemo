@@ -1,4 +1,3 @@
-
 spring:
   datasource:
     username: root
@@ -9,11 +8,7 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
-  alicloud:
-    access-key: LTAI5tCk9RgtNe1Znck69b6k
-    secret-key: LQaIzpkklkzMHmub5LACzd1eGCSB7u
-    oss:
-      endpoint: oss-cn-guangzhou.aliyuncs.com
+
 
 mybatis-plus:
   mapper-locations: classpath:/mapper/**/*.xml

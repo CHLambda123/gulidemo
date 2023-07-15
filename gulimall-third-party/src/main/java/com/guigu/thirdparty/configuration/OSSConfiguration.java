@@ -1,4 +1,4 @@
-package com.guigu.gulimall.product.configuration;
+package com.guigu.thirdparty.configuration;
 
 import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClientBuilder;
