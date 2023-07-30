@@ -1,0 +1,68 @@
+2023-07-29 20:10:29,510 INFO [PUSH-SUCC] 690ms, all delay time 1328ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2023-07-29 20:11:01,823 INFO [PUSH-SUCC] 6ms, all delay time 606ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2023-07-29 20:35:36,180 INFO [PUSH-SUCC] 678ms, all delay time 1248ms, SLA 1253ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:36:02,924 INFO [PUSH-SUCC] 64ms, all delay time 616ms, SLA 616ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:39:34,738 INFO [PUSH-SUCC] 24ms, all delay time 596ms, SLA 596ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:39:49,350 INFO [PUSH-SUCC] 148ms, all delay time 692ms, SLA 693ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:40:59,945 INFO [PUSH-SUCC] 20ms, all delay time 537ms, SLA 538ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:41:14,772 INFO [PUSH-SUCC] 61ms, all delay time 633ms, SLA 633ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=7}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:49:32,985 INFO [PUSH-SUCC] 177ms, all delay time 684ms, SLA 686ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=8}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:49:52,469 INFO [PUSH-SUCC] 32ms, all delay time 610ms, SLA 611ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=9}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:52:28,442 INFO [PUSH-SUCC] 161ms, all delay time 732ms, SLA 732ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=10}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:52:40,628 INFO [PUSH-SUCC] 37ms, all delay time 575ms, SLA 575ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=11}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:53:09,769 INFO [PUSH-SUCC] 19ms, all delay time 617ms, SLA 618ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=12}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:53:20,525 INFO [PUSH-SUCC] 122ms, all delay time 661ms, SLA 661ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=13}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 20:54:47,842 INFO [PUSH-SUCC] 61ms, all delay time 666ms, SLA 667ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=14}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 20:55:04,918 INFO [PUSH-SUCC] 76ms, all delay time 674ms, SLA 674ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=15}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 21:01:30,225 INFO [PUSH-SUCC] 70ms, all delay time 593ms, SLA 593ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=16}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 21:01:56,424 INFO [PUSH-SUCC] 51ms, all delay time 602ms, SLA 602ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=17}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 21:06:28,983 INFO [PUSH-SUCC] 97ms, all delay time 672ms, SLA 681ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=18}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 21:06:50,799 INFO [PUSH-SUCC] 67ms, all delay time 634ms, SLA 634ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=19}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 21:19:39,110 INFO [PUSH-SUCC] 150ms, all delay time 693ms, SLA 695ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=20}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 21:20:10,746 INFO [PUSH-SUCC] 46ms, all delay time 552ms, SLA 552ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=21}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 21:53:04,296 INFO [PUSH-SUCC] 1122ms, all delay time 1668ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2023-07-29 21:56:05,130 INFO [PUSH-SUCC] 47ms, all delay time 603ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+
+2023-07-29 21:58:26,777 INFO [PUSH-SUCC] 3ms, all delay time 531ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=21}, originalSize=1, DataSize=1
+
+2023-07-29 22:13:22,948 INFO [PUSH-SUCC] 194ms, all delay time 704ms, SLA 707ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=22}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 22:15:14,166 INFO [PUSH-SUCC] 42ms, all delay time 602ms, SLA 602ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 22:17:12,593 INFO [PUSH-SUCC] 25ms, all delay time 620ms, SLA 621ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 22:17:26,264 INFO [PUSH-SUCC] 13ms, all delay time 530ms, SLA 530ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 22:23:31,158 INFO [PUSH-SUCC] 355ms, all delay time 1036ms, SLA 1038ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 22:23:57,203 INFO [PUSH-SUCC] 65ms, all delay time 621ms, SLA 621ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 23:07:03,982 INFO [PUSH-SUCC] 250ms, all delay time 798ms, SLA 804ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, originalSize=0, DataSize=0, target=192.168.137.1
+
+2023-07-29 23:07:36,644 INFO [PUSH-SUCC] 190ms, all delay time 797ms, SLA 797ms, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=7}, originalSize=1, DataSize=1, target=192.168.137.1
+
+2023-07-29 23:08:26,160 INFO [PUSH-SUCC] 110ms, all delay time 696ms for subscriber 192.168.137.1, Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-third-party', ephemeral=true, revision=0}, originalSize=0, DataSize=0
+

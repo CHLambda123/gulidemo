@@ -1,0 +1,48 @@
+2023-07-29 23:22:29,311 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,312 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,312 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,312 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,314 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,314 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,315 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)
+2023-07-29 23:22:29,315 ERROR [TASK-FAILED] java.lang.InterruptedException
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:118)

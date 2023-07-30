@@ -1,0 +1,6 @@
+2023-07-30 10:13:44,231|192.168.137.1|gulimall-gateway|DEFAULT_GROUP|6cdf14c1-56e3-4c74-b491-a2e44a80c74f|null|-1|pull|not-found|-1|192.168.137.1|false
+2023-07-30 10:13:44,252|192.168.137.1|gulimall-gateway.properties|DEFAULT_GROUP|6cdf14c1-56e3-4c74-b491-a2e44a80c74f|null|-1|pull|not-found|-1|192.168.137.1|false
+2023-07-30 10:14:49,523|192.168.137.1|gulimall-product|DEFAULT_GROUP|33365fff-b6b5-4650-825a-613ec2eb55c6|null|-1|pull|not-found|-1|192.168.137.1|false
+2023-07-30 10:14:49,536|192.168.137.1|gulimall-product.properties|DEFAULT_GROUP|33365fff-b6b5-4650-825a-613ec2eb55c6|null|-1|pull|not-found|-1|192.168.137.1|false
+2023-07-30 10:14:56,263|192.168.137.1|gulimall-member|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.137.1|false
+2023-07-30 10:14:56,279|192.168.137.1|gulimall-member.properties|DEFAULT_GROUP|null|null|-1|pull|not-found|-1|192.168.137.1|false

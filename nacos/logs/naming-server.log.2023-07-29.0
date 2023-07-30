@@ -1,0 +1,230 @@
+2023-07-29 20:02:07,758 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2023-07-29 20:02:07,758 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2023-07-29 20:02:07,760 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2023-07-29 20:02:07,760 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2023-07-29 20:02:10,390 INFO Load instance extension handler []
+
+2023-07-29 20:07:21,441 INFO Client connection 1690632441431_127.0.0.1_55290 connect
+
+2023-07-29 20:07:21,564 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=0}, 1690632441431_127.0.0.1_55290
+
+2023-07-29 20:07:26,951 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=1}, 1690632441431_127.0.0.1_55290
+
+2023-07-29 20:07:27,298 INFO Client connection 1690632441431_127.0.0.1_55290 disconnect, remove instances and subscribers
+
+2023-07-29 20:07:29,795 INFO Client connection 1690632436960_127.0.0.1_55289 disconnect, remove instances and subscribers
+
+2023-07-29 20:07:51,775 INFO Client connection 1690632471762_127.0.0.1_55304 connect
+
+2023-07-29 20:07:51,891 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=2}, 1690632471762_127.0.0.1_55304
+
+2023-07-29 20:08:31,301 INFO Client connection 1690632510951_127.0.0.1_55336 connect
+
+2023-07-29 20:08:31,432 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=0}, 1690632510951_127.0.0.1_55336
+
+2023-07-29 20:08:44,402 INFO Client connection 1690632524389_127.0.0.1_55353 connect
+
+2023-07-29 20:08:44,686 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1690632524389_127.0.0.1_55353
+
+2023-07-29 20:35:34,907 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1690632524389_127.0.0.1_55353
+
+2023-07-29 20:35:35,160 INFO Client connection 1690632524389_127.0.0.1_55353 disconnect, remove instances and subscribers
+
+2023-07-29 20:35:36,073 INFO Client connection 1690632515099_127.0.0.1_55343 disconnect, remove instances and subscribers
+
+2023-07-29 20:36:02,191 INFO Client connection 1690634162180_127.0.0.1_57474 connect
+
+2023-07-29 20:36:02,308 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, 1690634162180_127.0.0.1_57474
+
+2023-07-29 20:39:34,142 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, 1690634162180_127.0.0.1_57474
+
+2023-07-29 20:39:34,178 INFO Client connection 1690634162180_127.0.0.1_57474 disconnect, remove instances and subscribers
+
+2023-07-29 20:39:34,553 INFO Client connection 1690634155464_127.0.0.1_57470 disconnect, remove instances and subscribers
+
+2023-07-29 20:39:48,543 INFO Client connection 1690634388534_127.0.0.1_57756 connect
+
+2023-07-29 20:39:48,657 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, 1690634388534_127.0.0.1_57756
+
+2023-07-29 20:40:59,407 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, 1690634388534_127.0.0.1_57756
+
+2023-07-29 20:40:59,442 INFO Client connection 1690634388534_127.0.0.1_57756 disconnect, remove instances and subscribers
+
+2023-07-29 20:40:59,826 INFO Client connection 1690634383633_127.0.0.1_57749 disconnect, remove instances and subscribers
+
+2023-07-29 20:41:14,026 INFO Client connection 1690634474017_127.0.0.1_57868 connect
+
+2023-07-29 20:41:14,138 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, 1690634474017_127.0.0.1_57868
+
+2023-07-29 20:49:32,295 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=7}, 1690634474017_127.0.0.1_57868
+
+2023-07-29 20:49:32,405 INFO Client connection 1690634474017_127.0.0.1_57868 disconnect, remove instances and subscribers
+
+2023-07-29 20:49:33,130 INFO Client connection 1690634469205_127.0.0.1_57862 disconnect, remove instances and subscribers
+
+2023-07-29 20:49:51,739 INFO Client connection 1690634991731_127.0.0.1_58403 connect
+
+2023-07-29 20:49:51,858 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=8}, 1690634991731_127.0.0.1_58403
+
+2023-07-29 20:52:27,710 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=9}, 1690634991731_127.0.0.1_58403
+
+2023-07-29 20:52:27,728 INFO Client connection 1690634991731_127.0.0.1_58403 disconnect, remove instances and subscribers
+
+2023-07-29 20:52:28,085 INFO Client connection 1690634985848_127.0.0.1_58398 disconnect, remove instances and subscribers
+
+2023-07-29 20:52:39,911 INFO Client connection 1690635159895_127.0.0.1_58554 connect
+
+2023-07-29 20:52:40,053 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=10}, 1690635159895_127.0.0.1_58554
+
+2023-07-29 20:53:09,151 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=11}, 1690635159895_127.0.0.1_58554
+
+2023-07-29 20:53:09,162 INFO Client connection 1690635159895_127.0.0.1_58554 disconnect, remove instances and subscribers
+
+2023-07-29 20:53:09,520 INFO Client connection 1690635155171_127.0.0.1_58542 disconnect, remove instances and subscribers
+
+2023-07-29 20:53:19,755 INFO Client connection 1690635199719_127.0.0.1_58599 connect
+
+2023-07-29 20:53:19,864 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=12}, 1690635199719_127.0.0.1_58599
+
+2023-07-29 20:54:47,175 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=13}, 1690635199719_127.0.0.1_58599
+
+2023-07-29 20:54:47,215 INFO Client connection 1690635199719_127.0.0.1_58599 disconnect, remove instances and subscribers
+
+2023-07-29 20:54:47,657 INFO Client connection 1690635195504_127.0.0.1_58595 disconnect, remove instances and subscribers
+
+2023-07-29 20:55:04,119 INFO Client connection 1690635304111_127.0.0.1_58705 connect
+
+2023-07-29 20:55:04,244 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=14}, 1690635304111_127.0.0.1_58705
+
+2023-07-29 21:01:29,630 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=15}, 1690635304111_127.0.0.1_58705
+
+2023-07-29 21:01:29,679 INFO Client connection 1690635304111_127.0.0.1_58705 disconnect, remove instances and subscribers
+
+2023-07-29 21:01:30,121 INFO Client connection 1690635298906_127.0.0.1_58702 disconnect, remove instances and subscribers
+
+2023-07-29 21:01:55,696 INFO Client connection 1690635715685_127.0.0.1_59191 connect
+
+2023-07-29 21:01:55,822 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=16}, 1690635715685_127.0.0.1_59191
+
+2023-07-29 21:06:28,293 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=17}, 1690635715685_127.0.0.1_59191
+
+2023-07-29 21:06:28,409 INFO Client connection 1690635715685_127.0.0.1_59191 disconnect, remove instances and subscribers
+
+2023-07-29 21:06:28,835 INFO Client connection 1690635708010_127.0.0.1_59172 disconnect, remove instances and subscribers
+
+2023-07-29 21:06:50,050 INFO Client connection 1690636010030_127.0.0.1_59571 connect
+
+2023-07-29 21:06:50,165 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=18}, 1690636010030_127.0.0.1_59571
+
+2023-07-29 21:19:38,410 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=19}, 1690636010030_127.0.0.1_59571
+
+2023-07-29 21:19:38,548 INFO Client connection 1690636010030_127.0.0.1_59571 disconnect, remove instances and subscribers
+
+2023-07-29 21:19:39,281 INFO Client connection 1690636002417_127.0.0.1_59561 disconnect, remove instances and subscribers
+
+2023-07-29 21:20:10,025 INFO Client connection 1690636810010_127.0.0.1_60752 connect
+
+2023-07-29 21:20:10,194 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=20}, 1690636810010_127.0.0.1_60752
+
+2023-07-29 21:50:13,426 INFO Client connection 1690638613285_127.0.0.1_62321 connect
+
+2023-07-29 21:50:13,599 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=0}, 1690638613285_127.0.0.1_62321
+
+2023-07-29 21:52:07,664 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=3}, 1690632471762_127.0.0.1_55304
+
+2023-07-29 21:52:08,050 INFO Client connection 1690632471762_127.0.0.1_55304 disconnect, remove instances and subscribers
+
+2023-07-29 21:52:10,810 INFO Client connection 1690632468351_127.0.0.1_55303 disconnect, remove instances and subscribers
+
+2023-07-29 21:52:27,199 INFO Client connection 1690638747187_127.0.0.1_62504 connect
+
+2023-07-29 21:52:27,314 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=4}, 1690638747187_127.0.0.1_62504
+
+2023-07-29 21:53:04,209 WARN task com.alibaba.nacos.naming.push.v2.task.PushExecuteTask@93ca311 takes 1046ms
+
+2023-07-29 22:13:22,238 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=21}, 1690636810010_127.0.0.1_60752
+
+2023-07-29 22:13:22,416 INFO Client connection 1690636810010_127.0.0.1_60752 disconnect, remove instances and subscribers
+
+2023-07-29 22:13:22,961 INFO Client connection 1690636801702_127.0.0.1_60735 disconnect, remove instances and subscribers
+
+2023-07-29 22:13:45,894 INFO Client connection 1690640020591_127.0.0.1_63258 disconnect, remove instances and subscribers
+
+2023-07-29 22:14:40,157 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2023-07-29 22:15:13,449 INFO Client connection 1690640113442_127.0.0.1_63353 connect
+
+2023-07-29 22:15:13,564 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=0}, 1690640113442_127.0.0.1_63353
+
+2023-07-29 22:17:11,972 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, 1690640113442_127.0.0.1_63353
+
+2023-07-29 22:17:12,081 INFO Client connection 1690640113442_127.0.0.1_63353 disconnect, remove instances and subscribers
+
+2023-07-29 22:17:12,459 INFO Client connection 1690640108171_127.0.0.1_63349 disconnect, remove instances and subscribers
+
+2023-07-29 22:17:25,620 INFO Client connection 1690640245611_127.0.0.1_63501 connect
+
+2023-07-29 22:17:25,733 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=2}, 1690640245611_127.0.0.1_63501
+
+2023-07-29 22:23:30,115 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, 1690640245611_127.0.0.1_63501
+
+2023-07-29 22:23:30,256 INFO Client connection 1690640245611_127.0.0.1_63501 disconnect, remove instances and subscribers
+
+2023-07-29 22:23:31,136 INFO Client connection 1690640240514_127.0.0.1_63496 disconnect, remove instances and subscribers
+
+2023-07-29 22:23:56,457 INFO Client connection 1690640636439_127.0.0.1_64002 connect
+
+2023-07-29 22:23:56,581 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, 1690640636439_127.0.0.1_64002
+
+2023-07-29 23:07:03,166 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=5}, 1690640636439_127.0.0.1_64002
+
+2023-07-29 23:07:03,427 INFO Client connection 1690640636439_127.0.0.1_64002 disconnect, remove instances and subscribers
+
+2023-07-29 23:07:04,045 INFO Client connection 1690640628331_127.0.0.1_63991 disconnect, remove instances and subscribers
+
+2023-07-29 23:07:35,578 INFO Client connection 1690643255547_127.0.0.1_50463 connect
+
+2023-07-29 23:07:35,836 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, 1690643255547_127.0.0.1_50463
+
+2023-07-29 23:22:11,521 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=7}, 1690643255547_127.0.0.1_50463
+
+2023-07-29 23:22:11,835 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=5}, 1690638747187_127.0.0.1_62504
+
+2023-07-29 23:22:11,861 INFO Client connection 1690643255547_127.0.0.1_50463 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:12,027 INFO Client connection 1690638747187_127.0.0.1_62504 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:12,504 INFO Client connection 1690643245986_127.0.0.1_50438 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:12,880 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=1}, 1690638613285_127.0.0.1_62321
+
+2023-07-29 23:22:13,133 INFO Client connection 1690638613285_127.0.0.1_62321 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:13,710 INFO Client connection 1690638605569_127.0.0.1_62311 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:15,024 INFO Client connection 1690638742354_127.0.0.1_62501 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:16,317 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, 1690632510951_127.0.0.1_55336
+
+2023-07-29 23:22:16,488 INFO Client connection 1690632510951_127.0.0.1_55336 disconnect, remove instances and subscribers
+
+2023-07-29 23:22:27,011 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2023-07-29 23:22:27,290 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2023-07-29 23:22:27,774 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:460)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)

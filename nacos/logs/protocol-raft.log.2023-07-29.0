@@ -1,0 +1,34 @@
+2023-07-29 20:02:07,974 INFO Initializes the Raft protocol, raft-config info : {}
+
+2023-07-29 20:02:08,287 INFO ========= The raft protocol is starting... =========
+
+2023-07-29 20:02:08,319 INFO ========= The raft protocol start finished... =========
+
+2023-07-29 20:02:08,365 INFO create raft group : naming_persistent_service_v2
+
+2023-07-29 20:02:09,692 INFO snapshot start to load from : C:\Users\Aeneas\Desktop\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_16
+
+2023-07-29 20:02:09,720 INFO snapshot success to load from : C:\Users\Aeneas\Desktop\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_16
+
+2023-07-29 20:02:09,721 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='null', term=null, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 20:02:09,811 INFO create raft group : naming_instance_metadata
+
+2023-07-29 20:02:09,811 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='192.168.137.1:7848', term=17, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 20:02:10,040 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 20:02:10,057 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.137.1:7848', term=17, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 20:02:10,058 INFO create raft group : naming_service_metadata
+
+2023-07-29 20:02:10,231 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 20:02:10,246 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.137.1:7848', term=17, raftClusterInfo=[192.168.137.1:7848]}
+
+2023-07-29 23:22:28,706 INFO shutdown jraft server
+
+2023-07-29 23:22:28,710 INFO ========= The raft protocol is starting to close =========
+
+2023-07-29 23:22:29,297 INFO ========= The raft protocol has been closed =========
+
